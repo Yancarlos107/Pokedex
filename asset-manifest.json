@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pokedex/static/css/main.7e75bd33.chunk.css",
+    "main.js": "/Pokedex/static/js/main.51a3e007.chunk.js",
+    "main.js.map": "/Pokedex/static/js/main.51a3e007.chunk.js.map",
+    "runtime-main.js": "/Pokedex/static/js/runtime-main.0d34915e.js",
+    "runtime-main.js.map": "/Pokedex/static/js/runtime-main.0d34915e.js.map",
+    "static/js/2.65475b79.chunk.js": "/Pokedex/static/js/2.65475b79.chunk.js",
+    "static/js/2.65475b79.chunk.js.map": "/Pokedex/static/js/2.65475b79.chunk.js.map",
+    "static/js/3.f3428393.chunk.js": "/Pokedex/static/js/3.f3428393.chunk.js",
+    "static/js/3.f3428393.chunk.js.map": "/Pokedex/static/js/3.f3428393.chunk.js.map",
+    "index.html": "/Pokedex/index.html",
+    "static/css/main.7e75bd33.chunk.css.map": "/Pokedex/static/css/main.7e75bd33.chunk.css.map",
+    "static/js/2.65475b79.chunk.js.LICENSE.txt": "/Pokedex/static/js/2.65475b79.chunk.js.LICENSE.txt",
+    "static/media/Layout_information.css": "/Pokedex/static/media/rayquaza.a704c395.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d34915e.js",
+    "static/js/2.65475b79.chunk.js",
+    "static/css/main.7e75bd33.chunk.css",
+    "static/js/main.51a3e007.chunk.js"
+  ]
+}
